@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EccomerceReactJs/static/css/main.354dbf5f.css",
-    "main.js": "/EccomerceReactJs/static/js/main.41361039.js",
+    "main.js": "/EccomerceReactJs/static/js/main.60f3cef1.js",
     "static/media/fa-solid-900.ttf": "/EccomerceReactJs/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/slider-image-1.jpeg": "/EccomerceReactJs/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
     "static/media/grocery-banner.png": "/EccomerceReactJs/static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
@@ -22,10 +22,10 @@
     "static/media/slick.woff": "/EccomerceReactJs/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/EccomerceReactJs/index.html",
     "main.354dbf5f.css.map": "/EccomerceReactJs/static/css/main.354dbf5f.css.map",
-    "main.41361039.js.map": "/EccomerceReactJs/static/js/main.41361039.js.map"
+    "main.60f3cef1.js.map": "/EccomerceReactJs/static/js/main.60f3cef1.js.map"
   },
   "entrypoints": [
     "static/css/main.354dbf5f.css",
-    "static/js/main.41361039.js"
+    "static/js/main.60f3cef1.js"
   ]
 }
