@@ -1,0 +1,7 @@
+.FeaturedProducts {}
+.heart-icon{
+    font-size: 80px !important;
+}
+.heart-icon-clicked {
+    color: red; /* Change to the desired color for the heart icon when clicked */
+  }
